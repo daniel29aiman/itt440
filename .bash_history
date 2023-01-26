@@ -1,0 +1,10 @@
+nano server_machineQ3.py
+pythin3 server_machineQ3.py
+python3 server_machineQ3.py
+nano server_machineQ3.py
+nano server.py
+python3 server.py
+nano server.py
+python3 server.py
+nano server.py
+python3 server.py
